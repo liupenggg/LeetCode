@@ -1,6 +1,9 @@
 # LeetCode
 数据结构与算法
 
+概率题
+  富翁和乞丐的财富之旅
+
 ### 总目录
 
 ---
@@ -38,27 +41,3 @@ LeetCode——Python实现【归档十一】
 
 ---
 LeetCode——Python实现【归档十二】
-
----
-LeetCode——Python实现【归档十三】
-
----
-LeetCode——Python实现【归档十四】
-
----
-LeetCode——Python实现【归档十五】
-
----
-LeetCode——Python实现【归档十六】
-
----
-LeetCode——Python实现【归档十七】
-
----
-LeetCode——Python实现【归档十八】
-
----
-LeetCode——Python实现【归档十九】
-
----
-LeetCode——Python实现【归档二十】
