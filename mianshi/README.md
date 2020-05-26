@@ -6,6 +6,7 @@
 
 ### 数据库
 1. redis数据类型
+五种：string、hash、list、set、zset
 1. redis持久化
 1. mybatis一级缓存、二级缓存
 1. MySQL数据库索引讲一下
