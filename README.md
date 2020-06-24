@@ -17,7 +17,7 @@
 [LeetCode——Python实现【归档三】](https://blog.csdn.net/weixin_42247922/article/details/104793181)
 
 ---
-[LeetCode——Python实现【归档四】]()
+[LeetCode——Python实现【归档四】](https://blog.csdn.net/weixin_42247922/article/details/105343553)
 
 ---
 LeetCode——Python实现【归档五】
